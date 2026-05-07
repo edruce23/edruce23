@@ -46,9 +46,9 @@ Aspiring cybersecurity professional in transition with hands-on training in SOC 
 
 ## Certifications
 <div>
-  <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_1-212C42?&style=for-the-badge&logo=tryhackme&logoColor=red" />
-  <img src="https://img.shields.io/badge/-TryHackMe_Jr_Penetration_Tester-212C42?&style=for-the-badge&logo=tryhackme&logoColor=red" />
+  <a href="https://drive.google.com/file/d/180UGEdH2M__dwDosZoif8fKC3U7-lnMT/view?usp=sharing"><img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0NE0UUG9EV.pdf"><img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_1-212C42?&style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LQNH5LW5OE.pdf"><img src="https://img.shields.io/badge/-TryHackMe_Jr_Penetration_Tester-212C42?&style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
 <!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
