@@ -22,7 +22,6 @@ Aspiring cybersecurity professional in transition with hands-on training in SOC 
 -->
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -46,7 +45,6 @@ Aspiring cybersecurity professional in transition with hands-on training in SOC 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
   <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_1-212C42?&style=for-the-badge&logo=tryhackme&logoColor=red" />
